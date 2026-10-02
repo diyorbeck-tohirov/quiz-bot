@@ -1,0 +1,21 @@
+2026-10-02 10:58:28,599 INFO Bot ishga tushdi...
+2026-10-02 10:58:28,600 INFO Start polling
+2026-10-02 10:58:29,469 INFO Run polling for bot @dars11yarati_bot id=8984614684 - '1-bot'
+2026-10-02 10:59:21,003 INFO Update id=910342728 is handled. Duration 892 ms by bot id=8984614684
+2026-10-02 10:59:25,106 INFO Update id=910342729 is handled. Duration 365 ms by bot id=8984614684
+2026-10-02 10:59:30,926 INFO Update id=910342730 is handled. Duration 720 ms by bot id=8984614684
+2026-10-02 10:59:34,313 INFO Update id=910342731 is handled. Duration 626 ms by bot id=8984614684
+2026-10-02 10:59:41,211 INFO Update id=910342732 is handled. Duration 666 ms by bot id=8984614684
+2026-10-02 10:59:46,459 INFO Update id=910342733 is handled. Duration 622 ms by bot id=8984614684
+2026-10-02 10:59:50,501 INFO Update id=910342734 is handled. Duration 633 ms by bot id=8984614684
+2026-10-02 10:59:53,408 INFO Update id=910342735 is handled. Duration 642 ms by bot id=8984614684
+2026-10-02 10:59:56,019 INFO Update id=910342736 is handled. Duration 698 ms by bot id=8984614684
+2026-10-02 11:00:00,195 INFO Update id=910342737 is handled. Duration 664 ms by bot id=8984614684
+2026-10-02 11:00:03,438 INFO Update id=910342738 is handled. Duration 766 ms by bot id=8984614684
+2026-10-02 11:00:07,494 INFO Update id=910342739 is handled. Duration 690 ms by bot id=8984614684
+2026-10-02 11:00:13,264 INFO Update id=910342740 is handled. Duration 370 ms by bot id=8984614684
+2026-10-02 11:03:36,190 INFO Polling stopped
+2026-10-02 11:03:36,192 ERROR Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-10-02 11:03:36,192 WARNING Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8984614684)
+2026-10-02 11:03:36,446 INFO Polling stopped for bot @dars11yarati_bot id=8984614684 - '1-bot'
+2026-10-02 11:03:36,448 INFO Bot to'xtatildi.

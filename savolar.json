@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "Python qaysi yili yaratilgan?",
+    "options": ["1989", "1991", "1995", "2000"],
+    "answer": "1991"
+  },
+  {
+    "id": 2,
+    "question": "HTML nima?",
+    "options": ["Dasturlash tili", "Ma'lumotlar bazasi", "Gipermatnli belgilash tili", "Brauzer"],
+    "answer": "Gipermatnli belgilash tili"
+  },
+  {
+    "id": 3,
+    "question": "O'zbekiston poytaxti qaysi shahar?",
+    "options": ["Samarkand", "Buxoro", "Toshkent", "Andijon"],
+    "answer": "Toshkent"
+  },
+  {
+    "id": 4,
+    "question": "Dunyodagi eng chuqur ko'l qaysi?",
+    "options": ["Kaspiy", "Baykal", "Viktoriya", "Orol"],
+    "answer": "Baykal"
+  },
+  {
+    "id": 5,
+    "question": "Yorug'lik tezligi qancha?",
+    "options": ["300,000 km/s", "150,000 km/s", "500,000 km/s", "1,000,000 km/s"],
+    "answer": "300,000 km/s"
+  },
+  {
+    "id": 6,
+    "question": "Eng kichik sayyora qaysi?",
+    "options": ["Mars", "Merkuriy", "Venera", "Yupiter"],
+    "answer": "Merkuriy"
+  },
+  {
+    "id": 7,
+    "question": "O'zbekiston mustaqillik kuni qachon?",
+    "options": ["1-oktyabr", "8-dekabr", "21-mart", "1-sentyabr"],
+    "answer": "1-sentyabr"
+  },
+  {
+    "id": 8,
+    "question": "Yer Quyosh atrofida necha kunda aylanib chiqadi?",
+    "options": ["360", "365", "366", "300"],
+    "answer": "365"
+  },
+  {
+    "id": 9,
+    "question": "Yevropa Ittifoqining pul birligi nima?",
+    "options": ["Dollar", "Funt", "Yevro", "Frank"],
+    "answer": "Yevro"
+  },
+  {
+    "id": 10,
+    "question": "Inson tanasidagi eng katta organ qaysi?",
+    "options": ["Yurak", "Jigar", "Teri", "O'pka"],
+    "answer": "Teri"
+  }
+]
